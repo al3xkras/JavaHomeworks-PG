@@ -98,8 +98,6 @@ public class Task3_2 {
                 }
             }
 
-            System.out.println(Arrays.deepToString(adjacent));
-
             for (int i = 0; i < adjacent.length; i++) {
                 for (int j = 0; j < adjacent[i].length; j++) {
                     int adjacentLiveCells=adjacent[i][j];
