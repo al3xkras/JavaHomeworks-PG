@@ -1,4 +1,4 @@
-package com.al3xkras.java_homeworks_pg.Lab5;
+package com.al3xkras.java_homeworks_pg.lab5;
 
 import java.util.LinkedList;
 import java.util.List;
