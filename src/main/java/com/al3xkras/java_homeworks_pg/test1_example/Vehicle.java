@@ -1,4 +1,4 @@
-package com.al3xkras.java_homeworks_pg.test1;
+package com.al3xkras.java_homeworks_pg.test1_example;
 
 public abstract class Vehicle{
     private final String carType;
